@@ -1,4 +1,0 @@
-phpstorm-settings
-=================
-
-PHPstorm Settings
